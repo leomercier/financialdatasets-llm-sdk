@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "financialdatasets": {
+      "command": "/Users/<user name>/.nvm/versions/node/v23.3.0/bin/node",
+      "args": [
+        "/Users/<user name>/Projects/financialdatasets-sdk/packages/mcp-server/build/index.js"
+      ],
+      "env": {
+        "FINANCIAL_DATASETS_API_KEY": "<api key from financialdatasets>"
+      }
+    }
+  }
+}
